@@ -1,4 +1,4 @@
-https://haz001.github.io/TheCube/# TheCube
+# TheCube
 ###This is a game that I've made
 By Going onto this you agree to follow the 'Rules/Agreement'
 ##Rules/Agreement

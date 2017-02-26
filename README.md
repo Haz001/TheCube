@@ -2,7 +2,7 @@
 ###This is a game that I've made
 By Going onto this you agree to follow the 'Rules/Agreement'
 ##Rules/Agreement
-###1) Only download from this site: https://haz001.github.io/TheCube/
+###1) Only download from this site: https://haz001.github.io/TheCube/index.html
 
 ###2) Don't distribute this
 

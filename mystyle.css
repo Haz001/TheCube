@@ -89,7 +89,74 @@ li{
 	padding: 15;
 	margin:0;
 	font-size: 50;
+	
+}
+.rainbow {
+			background-image: -webkit-gradient( linear, left top, right top, color-stop(0, red), color-stop(0.1, oringe), color-stop(0.2, yellow), color-stop(0.3, green),color-stop(0.4, blue),color-stop(0.5, purple));
+			display: block;
+			//color:transparent;
+			//-webkit-background-clip: text;
+			//background-clip: text;
 }
 a:hover{
 	color: red;
+}
+
+
+button .download{
+	display: block;
+	
+}
+
+
+.fliparea {
+	perspective: 1000px;
+	
+}
+
+.fliparea:hover .flipcard, .fliparea.hover_f .flipcard{
+	transform: rotateY(180deg);
+}
+
+.fliparea{
+	width: 260px;
+	height: 150px;
+	
+}
+
+
+.flipcard {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+	position: relative;
+
+}
+
+.card_front p, .card_back p, .card_back p h4, .card_front p h4{
+	margin-top: 0px;
+	padding-top: 0px;
+	color: white;
+}
+
+.card_front, .card_back {
+	width: 250px;
+	height: 150px;
+	backface-visibility: hidden;
+	border-left: 10px solid lawngreen;
+	padding: 0px;
+	background-color: red;
+	border-radius: 5px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.card_front {
+	z-index: 2;
+	transform: rotateY(0deg);
+}
+
+
+.card_back {
+	transform: rotateY(180deg);
 }

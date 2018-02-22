@@ -13,4 +13,8 @@ Mac - None
 Linux - None
 # V3
 not released
+# V4
+not released
+# V5
+not avalible
 ![The Cube](http://games.hazonline.co.uk/Data/Images/Game/The_Cube/thecube2.bmp)

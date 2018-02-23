@@ -4,7 +4,7 @@ These are the old version.
 Go here to get new version @https://games.hazonline.co.uk
 
 # V1
-Win - https://Haz001.github.io/TheCube/Win/V1.zip
+Win - https://github.com/Haz001/TheCube/blob/master/Win/V1.zip?raw=true
 Mac - None
 Linux - None
 # V2

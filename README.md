@@ -1,7 +1,6 @@
 # TheCube
 ### This is a game that I've made
-These are the old version.
-Go here to get new version @<a href="https://games.hazonline.co.uk">Haz_Games</a>
+
 
 # V1
 Win - https://github.com/Haz001/TheCube/blob/master/Win/V1.zip?raw=true <br/>
